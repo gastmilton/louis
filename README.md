@@ -1,6 +1,6 @@
 # louis
-A model octopus
+A model [octopus](https://en.wikipedia.org/wiki/Octopus)
 
 ## Development status
 
-- [proto1/README.md](proto1)
+- [proto1](proto1/README.md)
