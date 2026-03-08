@@ -1,0 +1,20 @@
+digraph {
+39 ["Louis"];
+40 ["an octopus"];
+39 -> 40;
+42 ["a mollusc"];
+43 ["eight limbs"];
+44 ["order Octopoda"];
+48 ["class Cephalopoda"];
+50 ["a squid"];
+51 ["a cuttlefish"];
+52 ["a nautiloid"];
+40 -> 42 ["is"];
+40 -> 43 ["has"];
+40 -> 44 ["is in"];
+44 -> 48 ["is in"];
+50 -> 48 ["is in"];
+51 -> 48 ["is in"];
+52 -> 48 ["is in"];
+40 -> 48 ["is in"];
+}
